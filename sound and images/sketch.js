@@ -10,7 +10,7 @@ img= loadImage('1822508_thumb.png');
 
 
 function setup(){
-createCanvas(windowWidth,windowheight);
+createCanvas(windowWidth,windowHeight);
 background(0);
 
 }
