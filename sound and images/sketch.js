@@ -4,7 +4,7 @@ let img;
 
 function preload(){
 
-img= loadImage('');
+img= loadImage('1822508_thumb.png');
 
 }
 
