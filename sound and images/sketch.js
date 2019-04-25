@@ -4,7 +4,7 @@ let img;
 
 function preload(){
 
-img= loadImage('1822508_thumb.png');
+img= loadImage('M82A1_barrett.png');
 
 }
 
