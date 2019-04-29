@@ -1,16 +1,14 @@
 var img;
 
-
-
 function preload(){
-img = createImg('M82A1_barrett.png');
+img = loadImage('M82A1_barrett.png');
 
 }
 
 
 function setup(){
-createCanvas(800,600);
-image(img,100,100);
+createCanvas(1280,960);
+image(img,640,480);
 }
 
-}
+
