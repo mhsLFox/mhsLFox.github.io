@@ -13,8 +13,8 @@ function setup(){
 createCanvas(1280,960);
   img.resize(800,800);
 image(img, 200 , 400);
-     mySound.setvolume(0.1);
-    mySound.play();
+mySound.setVolume(0.1);
+mySound.play();
 
   
 }
