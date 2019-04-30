@@ -5,7 +5,7 @@ img = loadImage('M82A1_barrett.png');
     mySound = loadSound('barrett.mp3');  
   }
 
-}
+
 
 
 function setup(){
