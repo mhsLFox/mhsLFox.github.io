@@ -2,7 +2,6 @@ var img;
 var mySound;
 function preload(){
 img = loadImage('M82A1_barrett.png');
-  function preload() {
     mySound = loadSound('barrett.mp3');  
   }
 
