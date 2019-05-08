@@ -12,7 +12,8 @@ function draw(){
 background(0,128,0);
 fill(127,0,255);
 rect(x,y,50,50);
-
+// square fill color of suare and background
+  
 if (keyIsDown(LEFT_ARROW)){
 x-=50;
 }
