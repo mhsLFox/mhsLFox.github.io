@@ -7,6 +7,7 @@ function draw() {
 
 for (let x=0; x<300; x++){
 
+//squares spawn randomly in either green or black
 fill (98, 244, 66);
 rect (random(1100), random(800),10,10);
 fill(0)
