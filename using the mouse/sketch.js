@@ -4,7 +4,7 @@ function setup() {
   // put setup code here
   createCanvas(1200,877.49);
 
-  /the square
+  //the square
 }
 noStroke();
 draw();
