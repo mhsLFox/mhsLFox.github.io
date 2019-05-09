@@ -120,6 +120,7 @@ function drawears(x,y,scale){ //Brady
   ellipse(x+scale/2.85,y+scale/7.5,scale/10,scale/8);
 }
 
+//barts mouth
 function drawmouth(x,y,scale){ //Liam
   stroke(0);
   noFill()
